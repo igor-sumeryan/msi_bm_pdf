@@ -1,0 +1,8 @@
+virtualenv==20.27.1
+fastapi==0.115.0
+uvicorn==0.32.0
+pytest-playwright==0.5.2
+img2pdf==0.5.1
+PyPDF2==3.0.1
+pillow==11.0.0
+pytest==8.3.3

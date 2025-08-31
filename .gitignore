@@ -1,0 +1,60 @@
+# Python standard .gitignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+*.log
+*.pot
+*.cover
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.tox/
+.tox/
+.pytest_cache/
+.pyre/
+.mypy_cache/
+.pytype/
+.env/
+.venv/
+ENV/
+env/
+venv/
+*.sqlite3
+*.db
+*.mo
+*.pot
+*.log
+*.bak
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+# Jupyter Notebook
+.ipynb_checkpoints
+# macOS
+*.DS_Store
+# VS Code
+.vscode/
+# OneDrive
+*.one
+# Test output
+htmlcov/
+# Docker
+*.pid
+*.pid.lock
+# PDF output
+*.pdf
