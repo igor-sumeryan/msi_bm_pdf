@@ -40,7 +40,6 @@ venv/
 *.swp
 .DS_Store
 .idea/
-.vscode/
 *.sublime-workspace
 *.sublime-project
 # Jupyter Notebook
