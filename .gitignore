@@ -46,8 +46,6 @@ venv/
 .ipynb_checkpoints
 # macOS
 *.DS_Store
-# VS Code
-.vscode/
 # OneDrive
 *.one
 # Test output
